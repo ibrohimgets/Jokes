@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    135deg,
+    rgb(196, 233, 231),
+    rgb(3, 193, 184) 50%,
+    rgb(232, 22, 22) 50%,
+    rgba(214, 111, 173, 0.796)
+  );
+}
+.title {
+  text-align: center;
+}
